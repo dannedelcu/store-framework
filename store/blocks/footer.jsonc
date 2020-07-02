@@ -4,10 +4,10 @@
     },
     "footer-layout.desktop": {
       "children": [
-        "flex-layout.row"
+        "flex-layout.row#footer-1-desktop"
       ]
     },
-    "flex-layout.row": {
+    "flex-layout.row#footer-1-desktop": {
         "children": [
           "flex-layout.col#footer-left-desktop",
           "flex-layout.col#footer-right-desktop"
@@ -41,5 +41,5 @@
             { "url": "https://twitter.com/foo", "name": "Twitter" }
           ]
         }
-      },
+    }
 }
