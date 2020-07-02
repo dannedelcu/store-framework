@@ -62,7 +62,9 @@
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
-      "showVariationsErrorMessage": true
+      "showVariationsErrorMessage": true,
+      "showValueForVariation": "all",
+      "showValueNameForImageVariation": true
     }
   }
 }
