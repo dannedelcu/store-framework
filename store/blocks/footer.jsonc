@@ -4,10 +4,10 @@
     },
     "footer-layout.desktop": {
       "children": [
-        "flex-layout.row#footer-1-desktop"
+        "flex-layout.row"
       ]
     },
-    "flex-layout.row#footer-1-desktop": {
+    "flex-layout.row": {
         "children": [
           "flex-layout.col#footer-left-desktop",
           "flex-layout.col#footer-right-desktop"
